@@ -1,6 +1,6 @@
 | **Field** | **Definition** | **Comments** |
 | --- | --- | --- |
-| event_id | The event id assigned by the IRE events management system. | Example: Can be used in conjunction with the link https://www.ire.org/events-and-training/event/3189/[event_id] to see online event.|
+| event_id | The event id assigned by the IRE events management system. | Example: Can be used in conjunction with the link 'https://www.ire.org/events-and-training/event/3189/' + [event_id] to see online event.|
 | name | The name of the session.| |
 | clean_description | The description of the session.| This comes from the IRE events management system and is free of HTML tags. |
 | location_room | The room where the session is being held.|  |
