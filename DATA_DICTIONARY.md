@@ -10,7 +10,7 @@
 | duration | The duration of the session in hours. |  |
 | pre_reg_flag | A flag to indicate if a hands-on class requires pre-registration | Values are *TRUE* if pre-registration is required and *FALSE* if not. |
 | paid_flag | A flag to indicate if a hands-on class requires payment to attend. | Values are *TRUE* if payment is required and *FALSE* if not. |
-| laptop_flag | A flag to indicate if you need to take your own laptop to a hands-on class. | Values are *TRUE* if you need to bring your own laptop and *FALSE* if laptops are provided. |
+| laptop_flag | A flag to indicate if you need to take your own laptop to a hands-on class. | Values are *TRUE* if you need to bring your own laptop and *FALSE* if computers are provided (only for hands-on classes.) |
 | speakers_cleaned | The name of the speaker and their affiliation. |  |
 | session_type | The type of session at the conference. |Values include: Hands-on, Demo,  Panel, Common and Special |
 | keywords | The keywords include topics for panel discussions as well as software used in the hands-on classes. |  |
